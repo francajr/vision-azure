@@ -23,12 +23,24 @@
 •	Clique na aba Face.<br/>
 •	Clique em Detect faces in na image.<br/>
 •	Retorne a pagina anterior.<br/>
+<img src=https://github.com/francajr/vision-azure/blob/main/outputs/image1.png>
 
 •	Detectando textos em imagens.<br/>
 •	Selecione a opção Optical chracter recognition.<br/>
 •	E depois clique em Extract text from images.<br/>
 •	Retorne a pagina anterior.<br/>
+<img src=https://github.com/francajr/vision-azure/blob/main/outputs/image2.png>
 
 •	Adicionando legendas as imagens.<br/>
 •	Selecione a opção Image analysis.<br/>
 •	E depois clique em Add captions to images.<br/>
+<img src=https://github.com/francajr/vision-azure/blob/main/outputs/image3.png>
+
+•	Todos os recursos tambem geram JSON.
+<img src=https://github.com/francajr/vision-azure/blob/main/outputs/image1json.png>
+<img src=https://github.com/francajr/vision-azure/blob/main/outputs/image2json.png>
+<img src=https://github.com/francajr/vision-azure/blob/main/outputs/image3json.png>
+
+•	Lembrando que ao final de tudo excluir para não gerar cobraça de valores.
+
+**_OBS: Todas as imagens foram retiradas do freepik._**
